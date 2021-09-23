@@ -21,7 +21,7 @@
 
         <n-card title="Card with Cover">
     <template #cover>
-      <img src="@/assets/passport_pic.jpg" width="50px"/>
+      <img src="@/assets/logo.png" width="50px"/>
     </template>
     Card Content
   </n-card>
