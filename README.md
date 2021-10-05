@@ -28,3 +28,7 @@ Carousal:
 
 Buttons and Modal:
 ![image](https://user-images.githubusercontent.com/47332035/136071954-da8b214f-927c-4f09-8034-d0d2cc3880d0.png)
+
+Form:
+![image](https://user-images.githubusercontent.com/47332035/136072190-b5c634b9-8bcb-4ab4-9c51-bf4eb4729c91.png)
+
